@@ -1,5 +1,5 @@
 ### css
-##for hiding elements in css.
+## for hiding elements in css.
 ```css
 display:none
 ```
