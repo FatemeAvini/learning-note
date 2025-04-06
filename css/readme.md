@@ -7,12 +7,13 @@ display:none;
 ```css
 transform:scale(2);
 ```
-##positioning elements 
-The position property specifies the type of positioning method used for an element.
-There are five different position values:
-
-static
-relative
-fixed
-absolute
-sticky
+## positioning elements 
+The position property specifies the type of positioning method used for an element.   
+** There are five different position values: **
+``` css
+position: static;
+position: relative;
+position: absolute;
+position: fixed;
+position: sticky;
+```
