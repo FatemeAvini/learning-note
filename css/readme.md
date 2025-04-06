@@ -9,7 +9,7 @@ transform:scale(2);
 ```
 ## positioning elements 
 The position property specifies the type of positioning method used for an element.   
-** There are five different position values: **
+**There are five different position values:**
 ``` css
 position: static;
 position: relative;
