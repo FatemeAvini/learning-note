@@ -28,4 +28,4 @@ by doing that we take the element completly out of the flow of the page.
 element and set that one to** * *position:relative* *
 ## layout patterns
 **what is layout pattern?** it is simply a specific way of repeating a certain coponent multiple times. 
-![01_row of boxes](css/images/01row of boxes.png)
+![01_row of boxes](css/images/01row20%of20%boxes.png)
