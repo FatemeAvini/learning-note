@@ -26,3 +26,6 @@ The element is positioned according to the normal flow of the document, and then
 by doing that we take the element completly out of the flow of the page.
 **we need to specify inside of the which container these elements should be absolutely positioned,we need to choose the parent 
 element and set that one to** * *position:relative* *
+## layout patterns
+**what is layout pattern?** it is simply a specific way of repeating a certain coponent multiple times. 
+![1 row of boxes](images/01row of boxes.png)
