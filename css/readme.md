@@ -29,3 +29,10 @@ element and set that one to** * *position:relative* *
 ## layout patterns
 **what is layout pattern?** it is simply a specific way of repeating a certain coponent multiple times. 
 ![01_row of boxes](images/01row%20of%20boxes.png)
+![02_grid of boxes](images/02grid%20of%20boxes.png)
+![03_Zpatterns](images/03zpatterns.png)
+![04_Fpatterns](images/04fpatterns.png)
+![05_single](images/05single.png)
+![06_sidebar](images/06sidebar.png)
+![07multi](images/07multi.png)
+![08asymmery](images/08asymmery.png)
