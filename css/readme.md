@@ -36,3 +36,9 @@ element and set that one to** * *position:relative* *
 ![06_sidebar](images/06sidebar.png)
 ![07multi](images/07multi.png)
 ![08asymmery](images/08asymmery.png)
+## background image
+to specify the image we need to **write url** insite it we need to specify the path of the image
+``` css
+background-image:url();
+```
+
