@@ -27,6 +27,7 @@ const currenciesUnique=new Set([]);
 currenciesUnique.forEach(function(value,map));
   ```
 **sets only has unique values.** 
+
   
   
   
