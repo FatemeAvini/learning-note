@@ -16,11 +16,18 @@ movments.forEach(function(movment)){
   * *the order is important so the first parameters always need to be the current element second parameter is the current index and the third one is the entire array.* *
     ## forEach with maps and sets
    ### maps:
-  
   ```javascript
-currencies.forEach(function(value,key,map)){}
+  const currencies=new Map([]);
+  currencies.forEach(function(value,key,map){});
+    ```
+  it has also three arguments the first one is current value in the current iteration,the second one is the key,and the third one is the entire map that is being looped over.
+  ### set
+```javascript
+const currenciesUnique=new Set([]);
+currenciesUnique.forEach(function(value,map));
   ```
-    
+**sets only has unique values.** 
+  
   
   
   
