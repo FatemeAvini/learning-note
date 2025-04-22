@@ -14,6 +14,13 @@ movments.forEach(function(movment)){
   movements.forEach(function(movement,index,array)){}
   ```
   * *the order is important so the first parameters always need to be the current element second parameter is the current index and the third one is the entire array.* *
+    ## forEach with maps and sets
+   ### maps:
+  
+  ```javascript
+currencies.forEach(function(value,key,map)){}
+  ```
+    
   
   
   
