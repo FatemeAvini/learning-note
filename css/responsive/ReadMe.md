@@ -1,0 +1,1 @@
+![mediaQuery](images/mediaQuery.png)
